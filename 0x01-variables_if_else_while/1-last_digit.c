@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- *  Determines either greater than 5, is less than 6, or is 0
+ * main - Determines either greater than 5, is less than 6, or is 0
  *
- * Return: Always zero (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -27,3 +27,5 @@ int main(void)
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 	}
 	return (0);
+}
+
