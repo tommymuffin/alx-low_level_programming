@@ -1,0 +1,23 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Mark set
+Auto-saving...done
+Mark set [4 times]
+Auto-saving...done
+Auto-saving...done
+previous-line: Beginning of buffer [4 times]
+funcall-interactively: No recursive edit is in progress
+Save file /alx-low_level_programming/0x03-debugging/0-main.c? (y, n, !, ., q, C-r, d or C-h) 
+Save file /alx-low_level_programming/0x03-debugging/0-main.c? (y, n, !, ., q, C-r, d or C-h) C-x
+Type C-h for help.
+Save file /alx-low_level_programming/0x03-debugging/0-main.c? (y, n, !, ., q, C-r, d or C-h) 
+Save file /alx-low_level_programming/0x03-debugging/0-main.c? (y, n, !, ., q, C-r, d or C-h) n
+Please answer yes or no.
+previous-line: Beginning of buffer [7 times]
+C-c C-x C-c is undefined
+Save file /alx-low_level_programming/0x03-debugging/0-main.c? (y, n, !, ., q, C-r, d or C-h) 
+Save file /alx-low_level_programming/0x03-debugging/0-main.c? (y, n, !, ., q, C-r, d or C-h) n
+C-c C-x C-c is undefined
+user-error: No mark set in this buffer
+C-c C-c is undefined
+user-error: No mark set in this buffer
