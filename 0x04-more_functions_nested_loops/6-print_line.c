@@ -5,9 +5,11 @@
  * @n: times straight line is printed.
  * Return: no return.
  */
+
 void print_line(int n)
 
 {
+
 	int x;
 
 	if (n <= 0)
